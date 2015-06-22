@@ -49,6 +49,4 @@ mysql_select_db("nicetry");
 
 //run_sql_file($_SERVER['DOCUMENT_ROOT'] . "/setup.sql");
 
-//This is a test commit 4.
-
 ?>
